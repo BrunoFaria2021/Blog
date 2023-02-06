@@ -4,7 +4,8 @@
 
 Este projeto é um exemplo prático do módulo 3 dos Fundamentos ASP.NET 6 do balta.io. Ele apresenta uma implementação eficiente do 
 Swagger, tornando mais fácil a visualização dos métodos criados. Com muito trabalho e estudo, este projeto tem sido usado como base para a jornada na Carreira Desenvolvedor Backend .NET, evidenciando a 
-evolução e crescimento do desenvolvedor. Não perca a chance de ver o resultado desse incrível projeto!
+evolução e crescimento do desenvolvedor. Não perca a chance de ver o resultado desse incrível projeto!.
+Recentemente foi feita uma atualização nesse projeto aplicando novas metodologias adquirida do Curso do Balta.io essas metodologias Inclui autenticação/autorização por token, JWT, injeção de dependência, registro de usuários seguros e implementação de ApiKey. 
 
 <a href="https://www.linkedin.com/in/bruno-faria-2010-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
